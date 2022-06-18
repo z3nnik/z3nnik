@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z3nnik&show_icons=true&count_private=true&theme=radical&hide=">
-</p>
+![z3nnik's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true](https://github-readme-stats.vercel.app/api?username=z3nnik&count_private=true&theme=tokyonight&show_icons=true))
